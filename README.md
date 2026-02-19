@@ -17,6 +17,7 @@ Data pipelines/platforms for analytics or ML
 AI-powered systems in robotics / IoT / edge applications
 
 📩 If you’re building something where data turns into decisions, let’s connect.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nandu-krishna-r) | Email: nandukris7@outlook.com  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nandu-krishna-r) | Email: nandukris7@outlook.com  | Portfolio : https://nandu-kris7.github.io/Portfolio/index.html
+
    
  
